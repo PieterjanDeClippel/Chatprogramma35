@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\bin\Debug\Client2.exe.config
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\bin\Debug\Client2.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\bin\Debug\Client2.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.csproj.GenerateResource.Cache
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.exe
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.pdb
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.Form1.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.ChatSessie.resources
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\bin\Debug\Client2.exe.manifest
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\bin\Debug\Client2.application
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.exe.manifest
+C:\Users\Gebruiker\Documents\Visual Studio 2015\Projects\Chatprogramma35\Client2\obj\Debug\Client2.application
